@@ -1,6 +1,6 @@
 using namespace std;
 int main()
 {
-  cout<<"edit"<<endl;
+  cout<<"editdasdadaass"<<endl;
   cout<<"aahdsafafkahj";
 }
